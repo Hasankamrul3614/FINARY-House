@@ -1,0 +1,41 @@
+.container{
+    margin-bottom: 30px;
+}
+.container h3{
+    color: aquamarine;
+}
+.buy-now{
+    background-color:green;
+    color: white;
+    border-radius: 10px;
+}
+.carousel-item{
+    background-color: whitesmoke;
+    padding: 20px 40px;
+}
+.cat-2{
+    color:orange
+}
+.card-title{
+    text-align: center;
+}
+.card{
+    text-align: center;
+    border: none;
+    box-shadow: 2px 2px 5px lightgrey;
+}
+.categories{
+margin-top: 150px;
+}
+.bag-1{
+
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 15px lightgrey;
+    height: 150px;
+    width: 150px;
+}
+
+footer{
+    text-align: center;
+}
+
